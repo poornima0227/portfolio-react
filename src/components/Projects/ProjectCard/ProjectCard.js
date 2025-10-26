@@ -37,7 +37,7 @@ function ProjectCard() {
                     Github
                   </a>
                 )}
-                {list.demo_url.length > 0 && (
+                {/* {list.demo_url.length > 0 && (
                   <a
                     className="btn PrimaryBtn btn-shadow"
                     href={list.demo_url}
@@ -46,7 +46,7 @@ function ProjectCard() {
                   >
                     Demo ➜
                   </a>
-                )}
+                )} */}
               </BtnGroup>
             </CardRight>
           </Card>

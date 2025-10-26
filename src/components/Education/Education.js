@@ -66,26 +66,26 @@ export default function Education() {
 
       <ScrollAnimation animateIn="fadeInUp">
         <EducationCard>
-          <h2><FaGraduationCap /> Park College of Engineering and Technology</h2>
-          <p><FaSchool /> <span>Degree:</span> B.Tech (Information Technology)</p>
-          <p><span>CGPA:</span> 7.6</p>
-          <p><FaCalendarAlt /> <span>Year:</span> 2019 - 2023</p>
+          <h2><FaGraduationCap /> Ayya Nadar Janaki Ammal College</h2>
+          <p><FaSchool /> <span>Degree:</span> BCA</p>
+          <p><span>CGPA:</span> 7.3</p>
+          <p><FaCalendarAlt /> <span>Year:</span> 2022 - 2025</p>
         </EducationCard>
       </ScrollAnimation>
 
       <ScrollAnimation animateIn="fadeInUp" delay={200}>
         <EducationCard>
-          <h2><FaSchool /> Nellai Nadar Matric Higher Secondary School</h2>
-          <p><span>HSC Percentage:</span> 64.5%</p>
-          <p><FaCalendarAlt /> <span>Year:</span> 2019</p>
+          <h2><FaSchool /> AVM Marimuthu Nadar Higher Secondary School</h2>
+          <p><span>HSC Percentage:</span> 69%</p>
+          <p><FaCalendarAlt /> <span>Year:</span> 2021 - 2022</p>
         </EducationCard>
       </ScrollAnimation>
 
       <ScrollAnimation animateIn="fadeInUp" delay={400}>
         <EducationCard>
-          <h2><FaSchool /> R.V Higher Secondary School</h2>
-          <p><span>SSLC Percentage:</span> 86%</p>
-          <p><FaCalendarAlt /> <span>Year:</span> 2017</p>
+          <h2><FaSchool /> AVM Marimuthu Nadar Higher Secondary School</h2>
+          <p><span>SSLC Percentage:</span> 77.6%</p>
+          <p><FaCalendarAlt /> <span>Year:</span> 2019 - 2020</p>
         </EducationCard>
       </ScrollAnimation>
     </EducationWrapper>

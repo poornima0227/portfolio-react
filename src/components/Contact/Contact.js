@@ -111,6 +111,7 @@ function Contact() {
     name: "",
     email: "",
     message: "",
+    
   });
 
   const [success, setSuccess] = useState(false);
@@ -126,8 +127,8 @@ function Contact() {
 
     emailjs
       .send(
-        "service_45qz2gf", // Your EmailJS Service ID
-        "template_9foi34f", // Your EmailJS Template ID
+        "service_iu0lrao", // Your EmailJS Service ID
+        "template_kq8vvwo", // Your EmailJS Template ID
         formData,
         "m9a5ynjzxkJ3FCGAB" // Your EmailJS User ID
       )
