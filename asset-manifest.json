@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.c3bbaa78.css",
+    "main.js": "/portfolio-react/static/js/main.3a7a8d0a.js",
+    "index.html": "/portfolio-react/index.html",
+    "static/media/blob-haikei.svg": "/portfolio-react/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
+    "main.c3bbaa78.css.map": "/portfolio-react/static/css/main.c3bbaa78.css.map",
+    "main.3a7a8d0a.js.map": "/portfolio-react/static/js/main.3a7a8d0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3bbaa78.css",
+    "static/js/main.3a7a8d0a.js"
+  ]
+}
